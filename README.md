@@ -6,3 +6,4 @@
  #### :pushpin: I am looking for a professional internship in web dev (laravel 8 and vue.js)
  
  #### :e-mail: Email  : radidyouness493@gmail.com
+ #### :mag:	Instagram : youness.radid
