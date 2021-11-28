@@ -6,5 +6,6 @@
  #### :computer:  I’m currently learning Laravel 8 and Vue js 
  #### :pushpin: I am looking for a work in web dev (laravel 8 and vue.js)
  
- #### :e-mail: Email  : radidyouness493@gmail.com
- #### :mag:	Instagram : youness.radid
+ #### :e-mail: Email  :     radidyouness493@gmail.com
+ ### 🔗       Linkedln :    https://www.linkedin.com/in/youness-radid-b85830182/ 
+ #### :mag:	Instagram :   youness.radid
