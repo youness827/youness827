@@ -7,5 +7,5 @@
  #### :pushpin: I am looking for a work in web dev (laravel 8 and vue.js)
  
  #### :e-mail: Email  :     radidyouness493@gmail.com
- ### 🔗       Linkedln :    https://www.linkedin.com/in/youness-radid-b85830182/ 
+ #### 🔗       Linkedln :    https://www.linkedin.com/in/youness-radid-b85830182/ 
  #### :mag:	Instagram :   youness.radid
